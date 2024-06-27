@@ -1,0 +1,105 @@
+
+yadav@mylaptop MINGW64 ~/OneDrive/Desktop/webdev_full
+$ ls
+ dice_challenge/             flex_box_sec-9/   section_10_grid/
+ DOM/                        gitbash/          section_11_bootstrap/
+'Drum Kit Starting Files'/   jquery/           section_8/
+
+yadav@mylaptop MINGW64 ~/OneDrive/Desktop/webdev_full
+$ cd DOM
+
+yadav@mylaptop MINGW64 ~/OneDrive/Desktop/webdev_full/DOM
+$ cd Desktop
+bash: cd: Desktop: No such file or directory
+
+yadav@mylaptop MINGW64 ~/OneDrive/Desktop/webdev_full/DOM
+$ cd documents
+bash: cd: documents: No such file or directory
+
+yadav@mylaptop MINGW64 ~/OneDrive/Desktop/webdev_full/DOM
+$ cd ~
+
+yadav@mylaptop MINGW64 ~
+$ cd Documents
+
+yadav@mylaptop MINGW64 ~/Documents
+$ cd ~
+
+yadav@mylaptop MINGW64 ~
+$ cd desktop
+bash: cd: desktop: No such file or directory
+
+yadav@mylaptop MINGW64 ~
+$ cd OneDrive/desktop
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop
+$ cd web
+web development/ webdev_full/     WEBSITE/
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop
+$ cd webdev_full
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full
+$ ls
+ dice_challenge/             flex_box_sec-9/   section_10_grid/
+ DOM/                        gitbash/          section_11_bootstrap/    
+'Drum Kit Starting Files'/   jquery/           section_8/
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full
+$  cd ..
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop
+$ cd webdev_full
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full
+$ mkdir cmd
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full
+$ cd cmd
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$ touch cmd.html
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$ open cmd.html
+bash: open: command not found
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$  start cmd.html
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$ code cmd.html
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$ rm cmd.html
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$ touch text1.txt
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$ touch text2.txt
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$ pwd
+/c/Users/yadav/OneDrive/desktop/webdev_full/cmd
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$ rm *
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full/cmd
+$  cd ..
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop/webdev_full
+$  cd ..
+
+yadav@mylaptop MINGW64 ~/OneDrive/desktop
+$  cd ..
+
+yadav@mylaptop MINGW64 ~/OneDrive
+$  cd ..4
+bash: cd: ..4: No such file or directory
+
+yadav@mylaptop MINGW64 ~/OneDrive
+$  cd ..
+
+yadav@mylaptop MINGW6
